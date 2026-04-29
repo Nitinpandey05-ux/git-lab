@@ -1,4 +1,8 @@
 Hello Git
 Updated content
 This is feature branch
+<<<<<<< HEAD
 Main branch change
+=======
+Feature branch change
+>>>>>>> feature1
